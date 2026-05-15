@@ -1,0 +1,2 @@
+# SQL-_mini-_project
+SQL MINI PROJECT-RETAIL STORE
